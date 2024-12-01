@@ -1,0 +1,9 @@
+{
+    "preguntas": [
+        {"pregunta": "¿Cuánto es 2 + 2?", "respuesta": "4"},
+        {"pregunta": "¿Cuánto es 5 * 3?", "respuesta": "15"},
+        {"pregunta": "¿Cuánto es 10 / 2?", "respuesta": "5"},
+        {"pregunta": "¿Cuánto es 8 - 3?", "respuesta": "5"},
+        {"pregunta": "¿Cuánto es 7 + 6?", "respuesta": "13"}
+    ]
+}
